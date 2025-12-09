@@ -1,0 +1,19 @@
+{
+	"name": "mySnowflake",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SnowflakeV2",
+		"typeProperties": {
+			"authenticationType": "Basic",
+			"accountIdentifier": "TCB33447",
+			"user": "KALESHP",
+			"database": "SNOWFLAKE_SAMPLE_DATA",
+			"warehouse": "compute_wh",
+			"host": "FPEYVZC-TCB33447.snowflakecomputing.com",
+			"useUtcTimestamps": false,
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDg2QTJBNjY2LUM5M0YtNDM3RS05RkE4LUFFN0ZGQkVGOTBDNl8yZjkzODRmMC03Yjg3LTQ3NzMtYjMxNy02NWQ1NzVjZDI3YmQiDQp9"
+		},
+		"version": "1.1"
+	}
+}

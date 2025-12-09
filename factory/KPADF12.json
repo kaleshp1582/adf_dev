@@ -1,0 +1,9 @@
+{
+	"name": "KPADF12",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "39ce338b-3c55-4461-9103-175631b96349",
+		"tenantId": "03618d3b-5e73-4f42-813d-36f8b6adae67"
+	}
+}
